@@ -1,5 +1,7 @@
 # Process Monitor
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows](https://img.shields.io/badge/Windows-0078D4.svg?style=for-the-badge&logo=Windows&logoColor=white)
+
 ## Overview
 
 Process Monitor is a Python script that monitors the creation of new processes on a Windows system using the WMI (
